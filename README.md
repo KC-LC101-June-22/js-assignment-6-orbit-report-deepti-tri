@@ -1,4 +1,6 @@
-# OrbitReport
+# [Check out the site!](https://kc-lc101-june-22.github.io/js-assignment-6-orbit-report-deepti-tri/)
+
+## OrbitReport
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
